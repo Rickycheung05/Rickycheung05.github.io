@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Rickycheung05.github.io</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-04-12T03:35:58.244Z</updated>
+    <updated>2020-04-12T03:46:45.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Rickycheung05.github.io"/>
     <link rel="self" href="https://Rickycheung05.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Rickycheung05.github.io/images/avatar.png</logo>
     <icon>https://Rickycheung05.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ricky Cheung blog</rights>
+    <entry>
+        <title type="html"><![CDATA[提示]]></title>
+        <id>https://Rickycheung05.github.io/ti-shi/</id>
+        <link href="https://Rickycheung05.github.io/ti-shi/">
+        </link>
+        <updated>2020-04-12T03:38:36.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Rickycheung05.github.io/post-images/1586663126445.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年4月11日广东疫情表]]></title>
         <id>https://Rickycheung05.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/</id>
