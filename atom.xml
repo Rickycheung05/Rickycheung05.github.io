@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Rickycheung05.github.io</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-04-12T03:16:07.273Z</updated>
+    <updated>2020-04-12T03:25:28.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Rickycheung05.github.io"/>
     <link rel="self" href="https://Rickycheung05.github.io/atom.xml"/>
@@ -10,22 +10,4 @@
     <logo>https://Rickycheung05.github.io/images/avatar.png</logo>
     <icon>https://Rickycheung05.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ricky Cheung blog</rights>
-    <entry>
-        <title type="html"><![CDATA[4月11日广东疫情统计]]></title>
-        <id>https://Rickycheung05.github.io/4-yue-11-ri-guang-dong-yi-qing-tong-ji/</id>
-        <link href="https://Rickycheung05.github.io/4-yue-11-ri-guang-dong-yi-qing-tong-ji/">
-        </link>
-        <updated>2020-04-12T03:03:31.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Rickycheung05.github.io/post-images/1586661339186.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一条消息]]></title>
-        <id>https://Rickycheung05.github.io/di-yi-tiao-xiao-xi/</id>
-        <link href="https://Rickycheung05.github.io/di-yi-tiao-xiao-xi/">
-        </link>
-        <updated>2020-04-12T01:53:43.000Z</updated>
-        <content type="html"><![CDATA[<p>您好，欢迎来到RickyCheung05的blog，欢迎持续关注。【第一则消息】<img src="https://Rickycheung05.github.io/post-images/1586656654361.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
 </feed>
