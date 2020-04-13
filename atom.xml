@@ -1,56 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bbc.github.io</id>
+    <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-04-13T06:47:36.820Z</updated>
+    <updated>2020-04-13T07:25:21.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bbc.github.io"/>
-    <link rel="self" href="https://bbc.github.io/atom.xml"/>
+    <link rel="alternate" href="https://rickycheung05.github.io/"/>
+    <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
     <subtitle>RickyCheung的blog</subtitle>
-    <logo>https://bbc.github.io/images/avatar.png</logo>
-    <icon>https://bbc.github.io/favicon.ico</icon>
+    <logo>https://rickycheung05.github.io/images/avatar.png</logo>
+    <icon>https://rickycheung05.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ricky Cheung blog</rights>
     <entry>
+        <title type="html"><![CDATA[广东IPTV即将下架多套数字付费节目，CBN更是不足半年就倒闭]]></title>
+        <id>https://rickycheung05.github.io/guang-dong-iptv-ji-jiang-xia-jia-duo-tao-shu-zi-fu-fei-jie-mu-cbn-geng-shi-bu-zu-ban-nian-jiu-dao-bi/</id>
+        <link href="https://rickycheung05.github.io/guang-dong-iptv-ji-jiang-xia-jia-duo-tao-shu-zi-fu-fei-jie-mu-cbn-geng-shi-bu-zu-ban-nian-jiu-dao-bi/">
+        </link>
+        <updated>2020-04-13T07:16:05.000Z</updated>
+        <content type="html"><![CDATA[<p>在广东IPTV可见CBN三套节目将在2020年4月15日下架<br>
+2020年4月20日下架卫生健康，摄影，DV生活，新科动漫四套节目<br>
+付费电视何去何从，专业化早就变得大杂烩，炒冷饭，令人无语的画质。。。<br>
+传统电视行业早已经改变，整合资源和升级思想是目前最总要的<br>
+<img src="https://rickycheung05.github.io//post-images/1586762600788.png" alt="" loading="lazy"><br>
+<img src="https://rickycheung05.github.io//post-images/1586762708539.png" alt="" loading="lazy"><br>
+<img src="https://rickycheung05.github.io//post-images/1586762712940.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2020年4月12日广东疫情表]]></title>
-        <id>https://bbc.github.io/2020-nian-4-yue-12-ri-guang-dong-yi-qing-biao/</id>
-        <link href="https://bbc.github.io/2020-nian-4-yue-12-ri-guang-dong-yi-qing-biao/">
+        <id>https://rickycheung05.github.io/2020-nian-4-yue-12-ri-guang-dong-yi-qing-biao/</id>
+        <link href="https://rickycheung05.github.io/2020-nian-4-yue-12-ri-guang-dong-yi-qing-biao/">
         </link>
         <updated>2020-04-13T06:14:40.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://bbc.github.io/post-images/1586758565507.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://rickycheung05.github.io//post-images/1586758565507.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[广东IPTV和广州有线节目表]]></title>
-        <id>https://bbc.github.io/guang-dong-iptv-he-guang-zhou-you-xian-jie-mu-biao/</id>
-        <link href="https://bbc.github.io/guang-dong-iptv-he-guang-zhou-you-xian-jie-mu-biao/">
+        <id>https://rickycheung05.github.io/guang-dong-iptv-he-guang-zhou-you-xian-jie-mu-biao/</id>
+        <link href="https://rickycheung05.github.io/guang-dong-iptv-he-guang-zhou-you-xian-jie-mu-biao/">
         </link>
         <updated>2020-04-13T06:08:10.000Z</updated>
         <content type="html"><![CDATA[<p>广州有线<br>
-<img src="https://bbc.github.io/post-images/1586758114627.jpg" alt="" loading="lazy"><br>
-<img src="https://bbc.github.io/post-images/1586758122039.jpg" alt="" loading="lazy"><br>
-<img src="https://bbc.github.io/post-images/1586758169052.jpg" alt="" loading="lazy"><br>
+<img src="https://rickycheung05.github.io//post-images/1586758114627.jpg" alt="" loading="lazy"><br>
+<img src="https://rickycheung05.github.io//post-images/1586758122039.jpg" alt="" loading="lazy"><br>
+<img src="https://rickycheung05.github.io//post-images/1586758169052.jpg" alt="" loading="lazy"><br>
 番禺有线<br>
-<img src="https://bbc.github.io/post-images/1586758183162.jpg" alt="" loading="lazy"><br>
+<img src="https://rickycheung05.github.io//post-images/1586758183162.jpg" alt="" loading="lazy"><br>
 广东IPTV<br>
-<img src="https://bbc.github.io/post-images/1586758194301.jpg" alt="" loading="lazy"></p>
+<img src="https://rickycheung05.github.io//post-images/1586758194301.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[温馨提示]]></title>
-        <id>https://bbc.github.io/wen-xin-ti-shi/</id>
-        <link href="https://bbc.github.io/wen-xin-ti-shi/">
+        <id>https://rickycheung05.github.io/wen-xin-ti-shi/</id>
+        <link href="https://rickycheung05.github.io/wen-xin-ti-shi/">
         </link>
         <updated>2020-04-12T04:19:16.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://bbc.github.io/post-images/1586665178297.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://rickycheung05.github.io//post-images/1586665178297.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020年4月11日广东疫情表]]></title>
-        <id>https://bbc.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/</id>
-        <link href="https://bbc.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/">
+        <id>https://rickycheung05.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/</id>
+        <link href="https://rickycheung05.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/">
         </link>
         <updated>2020-04-12T03:34:48.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://bbc.github.io/post-images/1586662527481.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://rickycheung05.github.io//post-images/1586662527481.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
