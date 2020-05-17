@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-05-17T02:37:11.609Z</updated>
+    <updated>2020-05-17T02:43:28.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -11,12 +11,17 @@
     <icon>https://rickycheung05.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ricky Cheung blog</rights>
     <entry>
-        <title type="html"><![CDATA[暂时暂停更新，感谢支持【天气测试提供】]]></title>
+        <title type="html"><![CDATA[【天气测试提供】]]></title>
         <id>https://rickycheung05.github.io/zan-shi-zan-ting-geng-xin-gan-xie-zhi-chi-tian-qi-ce-shi-ti-gong/</id>
         <link href="https://rickycheung05.github.io/zan-shi-zan-ting-geng-xin-gan-xie-zhi-chi-tian-qi-ce-shi-ti-gong/">
         </link>
         <updated>2020-05-17T02:35:16.000Z</updated>
-        <content type="html"><![CDATA[<iframe id="fancybox-frame" name="fancybox-frame1589682987986" frameborder="0" scrolling="no" hspace="0"  src="http://i.tianqi.com/index.php?c=code&a=getcode&id=25&h=100&w=155"></iframe>]]></content>
+        <content type="html"><![CDATA[<!-- 0 -->
+<div id="weather-view-he"></div>
+<script>
+WIDGET = {ID: 'jANBy8Aih0'};
+</script>
+<script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[今日疫情]]></title>
