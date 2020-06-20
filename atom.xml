@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-05-17T02:48:24.486Z</updated>
+    <updated>2020-06-20T08:53:55.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -72,22 +72,6 @@ WIDGET = {ID: 'jANBy8Aih0'};
         </link>
         <updated>2020-04-13T06:14:40.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://rickycheung05.github.io//post-images/1586758565507.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广东IPTV和广州有线节目表]]></title>
-        <id>https://rickycheung05.github.io/guang-dong-iptv-he-guang-zhou-you-xian-jie-mu-biao/</id>
-        <link href="https://rickycheung05.github.io/guang-dong-iptv-he-guang-zhou-you-xian-jie-mu-biao/">
-        </link>
-        <updated>2020-04-13T06:08:10.000Z</updated>
-        <content type="html"><![CDATA[<p>广州有线<br>
-<img src="https://rickycheung05.github.io//post-images/1586758114627.jpg" alt="" loading="lazy"><br>
-<img src="https://rickycheung05.github.io//post-images/1586758122039.jpg" alt="" loading="lazy"><br>
-<img src="https://rickycheung05.github.io//post-images/1586758169052.jpg" alt="" loading="lazy"><br>
-番禺有线<br>
-<img src="https://rickycheung05.github.io//post-images/1586758183162.jpg" alt="" loading="lazy"><br>
-广东IPTV<br>
-<img src="https://rickycheung05.github.io//post-images/1586758194301.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
