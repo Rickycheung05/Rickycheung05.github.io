@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-06-25T10:43:22.924Z</updated>
+    <updated>2020-06-25T10:48:16.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -27,7 +27,7 @@
 </head>
 <body>
 	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=300" height="160" data-setup='{}'>
+	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
           <source src="http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8" type="application/x-mpegURL" />
     </video>
 	<script src="https://unpkg.com/video.js/dist/video.js"></script>
@@ -53,7 +53,7 @@
 </head>
 <body>
 	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=300" height="160" data-setup='{}'>
+	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
           <source src="http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8" type="application/x-mpegURL" />
     </video>
 	<script src="https://unpkg.com/video.js/dist/video.js"></script>
