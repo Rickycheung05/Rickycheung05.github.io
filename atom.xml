@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-06-25T10:51:52.173Z</updated>
+    <updated>2020-06-25T11:06:25.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -76,10 +76,9 @@
         <link href="https://rickycheung05.github.io/zan-shi-zan-ting-geng-xin-gan-xie-zhi-chi-tian-qi-ce-shi-ti-gong/">
         </link>
         <updated>2020-05-17T02:35:16.000Z</updated>
-        <content type="html"><![CDATA[<!-- 0 -->
-<div id="weather-view-he"></div>
+        <content type="html"><![CDATA[<div id="weather-view-he"></div>
 <script>
-WIDGET = {ID: 'jANBy8Aih0'};
+WIDGET = {ID: 'AGTlgWSguM'};
 </script>
 <script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script>]]></content>
     </entry>
