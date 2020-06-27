@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-06-25T11:43:32.078Z</updated>
+    <updated>2020-06-27T06:31:34.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -10,6 +10,51 @@
     <logo>https://rickycheung05.github.io/images/avatar.png</logo>
     <icon>https://rickycheung05.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ricky Cheung blog</rights>
+    <entry>
+        <title type="html"><![CDATA[新城视讯直播]]></title>
+        <id>https://rickycheung05.github.io/xin-cheng-shi-xun-zhi-bo/</id>
+        <link href="https://rickycheung05.github.io/xin-cheng-shi-xun-zhi-bo/">
+        </link>
+        <updated>2020-06-27T06:28:22.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>&lt;!doctype html&gt;</p>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<p>&lt;!doctype html&gt;</p>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width="640" height="320" data-setup='{}'>
+          <source src="https://livesec.mudu.tv/watch/drxp9x.m3u8?auth_key=1593325785-264226-0-d1f8d1b65a2c48583df248c2c23b7def" type="application/x-mpegURL" />
+    </video>
+	<script src="https://unpkg.com/video.js/dist/video.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.1/videojs-contrib-hls.min.js"></script>
+</body>
+</html>
+</script>
+</body>
+</html>
+</html>
+</script>
+</body>
+</html>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[央视新闻24小时直播]]></title>
         <id>https://rickycheung05.github.io/yang-shi-xin-wen-24-xiao-shi-zhi-bo/</id>
