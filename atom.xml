@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-06-30T11:42:17.985Z</updated>
+    <updated>2020-06-30T11:45:59.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -19,8 +19,12 @@
         <content type="html"><![CDATA[<p>博主为您精选的直播频道，时时关注，资讯不间断<br>
 提供最新，最及时，最快的新闻资讯视讯直播<br>
 【直播频道，内容不固定】</p>
-<p>公告小尾巴</p>
-<div id="player-cont">
+<p>公告小尾巴asdk.googleapis.com/js/sdkloader/ima3.js&quot;&gt;</script></p>
+<div class="container c1">
+		<div class="indexBigDiv">
+		<div class="newsDesc clearfix" style="position: relative;">
+			<div class="categoryTitle"></div>
+			<div id="player-cont">
 							<div id="videoQuality" class="sd">
 					<a href="?is_hd"></a>
 					<a href="?is_sd"></a>
@@ -252,7 +256,32 @@ $(document).ready(function() {
 
 });
 </script>
-<pre><code>		&lt;/div&gt;</code></pre>
+<pre><code>		&lt;/div&gt;
+	&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+	&lt;div id=&quot;c1_afterplayer&quot; class=&quot;&quot;&gt;
+		&lt;div id=&quot;c1_afterplayerhead&quot; class=&quot;colhead&quot;&gt;&lt;/div&gt;&lt;div id=&quot;lrecBox&quot; class=&quot;containbox&quot;&gt;
+</code></pre>
+<div class="rightad lazy-load-ad">
+		<div id="div-gpt-ad-lrec">
+	</div>
+</div>
+</div>
+		</div>
+<pre><code>		&lt;div id=&quot;live-all&quot;&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+&lt;div id=&quot;ssGroup&quot;&gt;
+  &lt;div id=&quot;fbShare&quot;&gt;&lt;a id=&quot;fackbook_btn&quot; title=&quot;&quot; href=&quot;&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div id=&quot;googlePlus&quot;&gt;&lt;a id=&quot;googlePlus_btn&quot; title=&quot;&quot; href=&quot;&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div id=&quot;twitter&quot;&gt;&lt;a id=&quot;twitter_btn&quot; title=&quot;&quot; href=&quot;&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;div id=&quot;sina&quot;&gt;&lt;a id=&quot;sina_btn&quot; title=&quot;&quot; href=&quot;&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+		&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;	&lt;!--end indexBigDiv --&gt;
+&lt;/div&gt;</code></pre>
 ]]></content>
     </entry>
     <entry>
