@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-07-04T10:43:45.016Z</updated>
+    <updated>2020-07-04T10:45:51.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -16,6 +16,34 @@
         <link href="https://rickycheung05.github.io/livetv/">
         </link>
         <updated>2020-06-27T06:28:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>博主为您精选的直播频道，时时关注，资讯不间断<br>
+提供最新，最及时，最快的新闻资讯视讯直播<br>
+【直播频道，内容不固定】</p>
+<p>公告小尾巴</p>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
+          <source src="https://livesec.mudu.tv/watch/drxp9x.m3u8?auth_key=1593945478-990281-0-919e5f2af14dbd1207a18ba51fcd7ef4" type="application/x-mpegURL" />
+    </video>
+	<script src="https://unpkg.com/video.js/dist/video.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.1/videojs-contrib-hls.min.js"></script>
+</body>
+</html>
+</script>
+</body>
+</html>
+</html>
+</script>
+</body>
+</html>
+]]></summary>
         <content type="html"><![CDATA[<p>博主为您精选的直播频道，时时关注，资讯不间断<br>
 提供最新，最及时，最快的新闻资讯视讯直播<br>
 【直播频道，内容不固定】</p>
@@ -30,7 +58,7 @@
 <body>
 	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
 	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
-          <source src="rtmp://pubsec.mudu.tv/watch/drxp9x?auth_key=2082733261-0-0-977d6d977f4837a4123b6e8cd06be7ea" type="application/x-mpegURL" />
+          <source src="https://livesec.mudu.tv/watch/drxp9x.m3u8?auth_key=1593945478-990281-0-919e5f2af14dbd1207a18ba51fcd7ef4" type="application/x-mpegURL" />
     </video>
 	<script src="https://unpkg.com/video.js/dist/video.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.1/videojs-contrib-hls.min.js"></script>
@@ -40,6 +68,10 @@
 </body>
 </html>
 </html>
+</script>
+</body>
+</html>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
