@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rickycheung05.github.io/</id>
     <title>Ricky Cheung blog</title>
-    <updated>2020-07-28T02:08:20.545Z</updated>
+    <updated>2020-08-06T10:10:55.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rickycheung05.github.io/"/>
     <link rel="self" href="https://rickycheung05.github.io/atom.xml"/>
@@ -10,37 +10,6 @@
     <logo>https://rickycheung05.github.io/images/avatar.png</logo>
     <icon>https://rickycheung05.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ricky Cheung blog</rights>
-    <entry>
-        <title type="html"><![CDATA[阳广电视课堂]]></title>
-        <id>https://rickycheung05.github.io/yang-guang-dian-shi-ke-tang/</id>
-        <link href="https://rickycheung05.github.io/yang-guang-dian-shi-ke-tang/">
-        </link>
-        <updated>2020-07-28T02:07:07.000Z</updated>
-        <content type="html"><![CDATA[<meta charset="utf-8">
-<!-- TemplateBeginEditable name="doctitle" -->
-<title>无标题文档</title>
-<!-- TemplateEndEditable -->
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
-</head>
-<body>
-	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
-          <source src="https://livesec.mudu.tv/watch/drxp9x.m3u8?auth_key=1595988117-456648-0-65cf17290843d678b5595d7559122975" type="application/x-mpegURL" />
-    </video>
-	<script src="https://unpkg.com/video.js/dist/video.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.1/videojs-contrib-hls.min.js"></script>
-</body>
-</html>
-</script>
-</body>
-</html>
-</html>
-</script>
-</body>
-</html>
-<!-- more -->]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[时间频道-测试]]></title>
         <id>https://rickycheung05.github.io/livetv/</id>
@@ -61,7 +30,7 @@
 <body>
 	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
 	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
-          <source src="http://yvv.f3322.net:99/live/hd.m3u8" type="application/x-mpegURL" />
+          <source src="http://103.107.189.25:22124/hls/.m3u8" type="application/x-mpegURL" />
     </video>
 	<script src="https://unpkg.com/video.js/dist/video.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.1/videojs-contrib-hls.min.js"></script>
@@ -89,7 +58,7 @@
 <body>
 	<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
 	<video id="video" class="video-js vjs-default-skin" controls autoplay="autoplay" width=280" height="160" data-setup='{}'>
-          <source src="http://yvv.f3322.net:99/live/hd.m3u8" type="application/x-mpegURL" />
+          <source src="http://103.107.189.25:22124/hls/.m3u8" type="application/x-mpegURL" />
     </video>
 	<script src="https://unpkg.com/video.js/dist/video.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.1/videojs-contrib-hls.min.js"></script>
@@ -233,6 +202,15 @@ WIDGET = {ID: 'AGTlgWSguM'};
         </link>
         <updated>2020-04-12T04:19:16.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://rickycheung05.github.io//post-images/1586665178297.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年4月11日广东疫情表]]></title>
+        <id>https://rickycheung05.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/</id>
+        <link href="https://rickycheung05.github.io/2020-nian-4-yue-11-ri-guang-dong-yi-qing-biao/">
+        </link>
+        <updated>2020-04-12T03:34:48.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://rickycheung05.github.io//post-images/1586662527481.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
